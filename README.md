@@ -56,7 +56,6 @@ The task is simple: given a description of symptoms, predict which medical condi
 3. **Run the notebook**:
    - Execute cells sequentially
    - The code will automatically download the medical dataset
-   - Training takes ~30 minutes on a GPU
 
 ## The Medical Classification Task
 
